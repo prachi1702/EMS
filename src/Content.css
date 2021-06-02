@@ -1,0 +1,77 @@
+.content {
+  padding-top: 80px;
+}
+
+.heading {
+  font-family: "Arial Black", sans-serif;
+  font-size: 4.5em;
+  letter-spacing: -1px;
+  background-color: black;
+  color: white;
+}
+
+.listview {
+  margin: 0 auto;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+}
+.myForm {
+  margin: 0 auto;
+  padding: 50px;
+  width: 50%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+  text-size-adjust: auto;
+}
+
+.formField {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton {
+  width: 100%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList {
+  list-style: none;
+  padding: 50px;
+}
+
+.myListButton {
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  border: 1px solid #00b894;
+  margin: 3px 5px;
+}
+
+.table {
+  font-size: 33px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgb(85, 92, 168) 0%,
+    rgba(12, 90, 235, 0.9) 59%,
+    rgba(66, 80, 153, 0.9) 100%
+  );
+  width: 50%;
+
+  margin: 0 auto;
+  text-align: center;
+}
